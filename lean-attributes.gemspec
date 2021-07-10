@@ -27,6 +27,6 @@ DESC
   s.extra_rdoc_files = ['README.md']
   s.require_paths = ['lib']
 
-  s.add_development_dependency 'rake',  '~> 12.3', '>= 10.3.2'
+  s.add_development_dependency 'rake',  '~> 13.0', '>= 10.3.2'
   s.add_development_dependency 'rspec', '~> 3.0',   '>= 3.0.0'
 end
